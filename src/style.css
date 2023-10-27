@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.night-bg {
+    background-image: url('./assets/night.jpg');
+    background-size: cover;
+
+
+
+}
+
+.day-bg {
+    background-image: url('./assets/day.jpg');
+    background-size: cover;
+
+
+
+}
